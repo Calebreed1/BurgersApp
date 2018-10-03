@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "BurgersApp",
   "version": "1.0.0",
   "description": "Burger eating game!",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Calebreed1/burger.git"
+    "url": "git+https://github.com/Calebreed1/BurgersApp.git"
   },
   "author": "Caleb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Calebreed1/burger/issues"
+    "url": "https://github.com/Calebreed1/BurgersApp/issues"
   },
-  "homepage": "https://github.com/Calebreed1/burger#readme",
+  "homepage": "https://github.com/Calebreed1/BurgersApp#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
